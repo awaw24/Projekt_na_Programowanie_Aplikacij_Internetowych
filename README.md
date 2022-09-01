@@ -1,11 +1,18 @@
 # Projekt_na_Programowanie_Aplikacij_Internetowych
-Projekt z przedmiotu PAI na uczelni WSB Warszawa.
-Projekt prezentuje klienta serwisu sieciowego korzystającego z serwisu udostępniającego usługi REST.
+Projekt z przedmiotu PAI na uczelni WSB Warszawa.<br>
 
-![Zrzut ekranu CP](https://user-images.githubusercontent.com/62695014/187787426-ce14d19a-f80c-459d-86f7-bee19380aec4.png)
+Projekt prezentuje klienta serwisu sieciowego korzystającego z serwisu udostępniającego usługi REST.<br>
 
-Jest to strona internetowa, która pobiera za pomocą metody GET z serwera dane na temat filmów.
-Następnie prezentuje pobrane dane.
+Jest to strona internetowa, która pobiera za pomocą metody GET z serwera dane na temat filmów animowanych japońskiego studia filmowego ["Studio Ghibli"](https://pl.wikipedia.org/wiki/Studio_Ghibli).<br>
 
-Adres Serwera REST: https://ghibliapi.herokuapp.com/
-Pobierane dane: tytuły, opisy, data produkcji, imiona i nazwiska reżysera lub reżyserów.
+Następnie prezentuje pobrane informacje:<br>
+<br>
+![Zrzut_ekranu_1](https://user-images.githubusercontent.com/62695014/187803020-624a2477-f72b-489e-80ab-e03c9d39fe85.png)<br>
+
+**Strona internetowa Serwera REST API:** https://ghibliapi.herokuapp.com/<br>
+
+**Pobierane dane:**<br>
+* Tytuły,
+* Opisy,
+* Data produkcji,
+* Imiona i Nazwiska reżysera lub reżyserów;
