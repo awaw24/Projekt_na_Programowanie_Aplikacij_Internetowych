@@ -15,4 +15,4 @@ Następnie prezentuje pobrane informacje:<br>
 * Tytuły,
 * Opisy,
 * Data wydania,
-* Imiona i Nazwiska reżysera lub reżyserów;
+* Imię i Nazwisko reżysera lub reżyserów;
