@@ -14,5 +14,5 @@ Następnie prezentuje pobrane informacje:<br>
 **Pobierane dane:**<br>
 * Tytuły,
 * Opisy,
-* Data wydania,
+* Daty wydania,
 * Imiona i Nazwiska reżysera lub reżyserów;
